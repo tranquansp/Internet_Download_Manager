@@ -10,6 +10,11 @@ Detail :
   + Download multi_thread and get process_download_message(percent, bytes downloaded ...)
   + Capture all packet from all connection from your own computer, filter by extension file.
   + ThreadDownload Management.
+  + Support in Windows and Linux
+  
+Using :
+  + Windows : winsock + wininet
+  + Linux   : socket, maybe libcurls
   
 Plan :
   + Beta Release : 27/05/2015
